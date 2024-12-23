@@ -14,7 +14,7 @@ Real-Time Feedback: Get instant feedback on your selections, allowing you to ref
 Programming Language: Python
 
 ## Key Libraries:
-TensorFlow: For building and training machine learning models that power our recommendation engine.
-OpenCV: To process and analyze images for accurate feature extraction.
-Streamlit: For creating a dynamic and interactive web application that brings your fashion recommendations to life.
-Pandas & NumPy: For data manipulation and analysis, ensuring efficient handling of datasets.
+- TensorFlow: For building and training machine learning models that power our recommendation engine.
+- OpenCV: To process and analyze images for accurate feature extraction.
+- Streamlit: For creating a dynamic and interactive web application that brings your fashion recommendations to life.
+- Pandas & NumPy: For data manipulation and analysis, ensuring efficient handling of datasets.
